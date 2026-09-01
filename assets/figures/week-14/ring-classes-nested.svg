@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" role="img">
+  <title>Classes of rings nested inside one another</title>
+  <desc>Five nested rounded rectangles labelled from rings on the outside to fields on the inside, each carrying an example that lies in it and not in the next one in.</desc>
+  <rect x="0" y="0" width="700" height="400" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Each condition added rules more systems out</text>
+  <rect x="50" y="52" width="600" height="300" fill="none" rx="10" stroke="#2f6f9f" stroke-width="1.7"/>
+  <text x="62" y="72" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="start" font-weight="bold">rings</text>
+  <text x="638" y="72" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">the two by two real matrices</text>
+  <rect x="80" y="82" width="540" height="240" fill="none" rx="10" stroke="#6b5b95" stroke-width="1.7"/>
+  <text x="92" y="102" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#6b5b95" text-anchor="start" font-weight="bold">commutative rings</text>
+  <text x="608" y="102" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">the even integers, which have no one</text>
+  <rect x="110" y="112" width="480" height="180" fill="none" rx="10" stroke="#c2622d" stroke-width="1.7"/>
+  <text x="122" y="132" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="start" font-weight="bold">commutative rings with a one</text>
+  <text x="578" y="132" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">the classes modulo six</text>
+  <rect x="140" y="142" width="420" height="120" fill="none" rx="10" stroke="#3f7a52" stroke-width="1.7"/>
+  <text x="152" y="162" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="start" font-weight="bold">integral domains</text>
+  <text x="548" y="162" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">the integers</text>
+  <rect x="170" y="172" width="360" height="60" fill="none" rx="10" stroke="#a33a3a" stroke-width="1.7"/>
+  <text x="182" y="192" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#a33a3a" text-anchor="start" font-weight="bold">fields</text>
+  <text x="350" y="208" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">the rationals, the reals, the classes modulo five</text>
+  <text x="50" y="380" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Each example named on a layer belongs to that layer and to no layer further in.</text>
+  <text x="50" y="398" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">So every containment shown here is strict, and none of them can be reversed.</text>
+</svg>

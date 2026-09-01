@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 424" width="700" height="424" role="img">
+  <title>The subgroup lattice of the symmetries of a square</title>
+  <desc>A four-level diagram with the trivial subgroup at the bottom, five subgroups of order two, three of order four, and the whole group at the top, joined by containment lines.</desc>
+  <rect x="0" y="0" width="700" height="424" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every subgroup of the eight symmetries of a square</text>
+  <rect x="260" y="62" width="180" height="40" fill="#dbe6ef" rx="6" stroke="#1f2933" stroke-width="1.2"/>
+  <text x="350" y="86.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">all eight motions</text>
+  <rect x="40" y="160" width="200" height="44" fill="#eef2f6" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="140" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">order four</text>
+  <text x="140" y="195" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">r, r2, r3</text>
+  <line x1="140" y1="160" x2="350" y2="102" stroke="#c9d1d9" stroke-width="1.2" stroke-linecap="round"/>
+  <rect x="250" y="160" width="200" height="44" fill="#eef2f6" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="350" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">order four</text>
+  <text x="350" y="195" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">r2, r2s, s</text>
+  <line x1="350" y1="160" x2="350" y2="102" stroke="#c9d1d9" stroke-width="1.2" stroke-linecap="round"/>
+  <rect x="460" y="160" width="200" height="44" fill="#eef2f6" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="560" y="178" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">order four</text>
+  <text x="560" y="195" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">r2, r3s, rs</text>
+  <line x1="560" y1="160" x2="350" y2="102" stroke="#c9d1d9" stroke-width="1.2" stroke-linecap="round"/>
+  <rect x="22" y="262" width="116" height="40" fill="#ffffff" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="80" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">order two</text>
+  <text x="80" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">e and r2</text>
+  <line x1="80" y1="262" x2="140" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="80" y1="262" x2="350" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="80" y1="262" x2="560" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="80" y1="302" x2="350" y2="348" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="157" y="262" width="116" height="40" fill="#ffffff" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="215" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">order two</text>
+  <text x="215" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">e and r2s</text>
+  <line x1="215" y1="262" x2="350" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="215" y1="302" x2="350" y2="348" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="292" y="262" width="116" height="40" fill="#ffffff" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="350" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">order two</text>
+  <text x="350" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">e and r3s</text>
+  <line x1="350" y1="262" x2="560" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="350" y1="302" x2="350" y2="348" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="427" y="262" width="116" height="40" fill="#ffffff" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="485" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">order two</text>
+  <text x="485" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">e and rs</text>
+  <line x1="485" y1="262" x2="560" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="485" y1="302" x2="350" y2="348" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="562" y="262" width="116" height="40" fill="#ffffff" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="620" y="278" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">order two</text>
+  <text x="620" y="295" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">e and s</text>
+  <line x1="620" y1="262" x2="350" y2="204" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <line x1="620" y1="302" x2="350" y2="348" stroke="#c9d1d9" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="280" y="348" width="140" height="38" fill="#dbe6ef" rx="6" stroke="#1f2933" stroke-width="1.2"/>
+  <text x="350" y="371.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">just the identity</text>
+  <text x="40" y="410" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Ten subgroups in all. Every order divides eight, which is the theorem of Week 8.</text>
+</svg>

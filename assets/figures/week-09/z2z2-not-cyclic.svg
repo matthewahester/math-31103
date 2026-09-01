@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 360" width="660" height="360" role="img">
+  <title>Adding one to each coordinate returns after two cells</title>
+  <desc>A grid of ordered pairs with an attempt to reach every cell by repeatedly adding one fixed pair, succeeding when the two sizes share no factor and failing when they do.</desc>
+  <rect x="0" y="0" width="660" height="360" fill="#ffffff"/>
+  <text x="330" y="26" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2933" text-anchor="middle" font-weight="bold">Repeatedly adding the pair with one in each slot</text>
+  <rect x="170" y="60" width="110" height="62" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="225" y="96" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(0, 0)</text>
+  <rect x="280" y="60" width="110" height="62" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="335" y="96" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(0, 1)</text>
+  <rect x="170" y="122" width="110" height="62" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="225" y="158" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(1, 0)</text>
+  <rect x="280" y="122" width="110" height="62" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="335" y="158" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(1, 1)</text>
+  <line x1="225" y1="73" x2="328.902" y2="131.563" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="335,135 330.449,128.819 327.355,134.307" fill="#a33a3a"/>
+  <line x1="335" y1="135" x2="231.098" y2="76.437" stroke="#a33a3a" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="225,73 229.551,79.181 232.645,73.693" fill="#a33a3a"/>
+  <circle cx="265" cy="71" r="7" fill="#a33a3a"/>
+  <circle cx="375" cy="133" r="7" fill="#a33a3a"/>
+  <rect x="90" y="214" width="480" height="42" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.2"/>
+  <text x="330" y="231" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the walk returns after only 2 cells</text>
+  <text x="330" y="248" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="middle">no single element reaches everything, so the product is not cyclic</text>
+  <text x="90" y="290" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The two side lengths are 2 and 2, whose greatest common divisor is 2.</text>
+</svg>

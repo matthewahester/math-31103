@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" role="img">
+  <title>A homomorphism factored through its quotient</title>
+  <desc>Three boxes joined by arrows: the domain sends onto the quotient by the collapsing map, the quotient matches the image exactly, and the two routes agree.</desc>
+  <rect x="0" y="0" width="700" height="360" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every homomorphism is a collapse followed by a match</text>
+  <rect x="60" y="90" width="190" height="60" fill="#eef2f6" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="155" y="116" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle" font-weight="bold">the domain</text>
+  <text x="155" y="133" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">the group you started with</text>
+  <rect x="450" y="90" width="190" height="60" fill="#eef2f6" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="545" y="116" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle" font-weight="bold">the image</text>
+  <text x="545" y="133" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">what the map actually reaches</text>
+  <rect x="255" y="250" width="190" height="60" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="350" y="276" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle" font-weight="bold">the quotient</text>
+  <text x="350" y="293" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="middle">by the kernel</text>
+  <line x1="255" y1="120" x2="438" y2="120" stroke="#1f2933" stroke-width="1.6" stroke-linecap="round"/>
+  <polygon points="445,120 438,116.85 438,123.15" fill="#1f2933"/>
+  <text x="350" y="108" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">the homomorphism</text>
+  <line x1="150" y1="155" x2="293.998" y2="241.399" stroke="#3f7a52" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="300,245 295.618,238.697 292.377,244.1" fill="#3f7a52"/>
+  <text x="180" y="214" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">collapse each coset</text>
+  <line x1="410" y1="248" x2="534.286" y2="160.044" stroke="#c2622d" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <polygon points="540,156 532.466,157.472 536.106,162.615" fill="#c2622d"/>
+  <text x="520" y="218" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="end">a match</text>
+  <text x="60" y="340" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The dashed arrow is one to one and onto, so the quotient and the image are the</text>
+  <text x="60" y="358" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">same group. That statement is the first isomorphism theorem.</text>
+</svg>

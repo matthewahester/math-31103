@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 432" width="680" height="432" role="img">
+  <title>The centre as the intersection of all the centralizers</title>
+  <desc>Three overlapping regions each labelled as the elements commuting with one motion, their common overlap containing only the identity and the half turn.</desc>
+  <rect x="0" y="0" width="680" height="432" fill="#ffffff"/>
+  <text x="340" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">What commutes with everything</text>
+  <circle cx="255" cy="150" r="105" fill="#2f6f9f" stroke="#2f6f9f" stroke-width="1.6" fill-opacity="0.14"/>
+  <circle cx="425" cy="150" r="105" fill="#c2622d" stroke="#c2622d" stroke-width="1.6" fill-opacity="0.14"/>
+  <circle cx="340" cy="235" r="105" fill="#6b5b95" stroke="#6b5b95" stroke-width="1.6" fill-opacity="0.14"/>
+  <text x="180" y="96" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">with the</text>
+  <text x="180" y="112" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">quarter turn</text>
+  <text x="512" y="96" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="middle">with one flip</text>
+  <text x="340" y="356" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#6b5b95" text-anchor="middle">with another flip</text>
+  <circle cx="340" cy="188" r="34" fill="#ffffff" stroke="#1f2933" stroke-width="1.6"/>
+  <text x="340" y="184" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">e and</text>
+  <text x="340" y="199" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#1f2933" text-anchor="middle">the half turn</text>
+  <text x="40" y="384" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Each region is the set of motions commuting with one fixed motion, and each is</text>
+  <text x="40" y="402" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">itself a subgroup. Their common part is the centre, and for the square it holds</text>
+  <text x="40" y="420" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">only two of the eight motions.</text>
+</svg>

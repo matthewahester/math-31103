@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 448" width="680" height="448" role="img">
+  <title>The classes modulo eight, with the products that vanish</title>
+  <desc>A seven by seven multiplication table on the classes one through seven modulo eight, with the cells holding a zero marked in red.</desc>
+  <rect x="0" y="0" width="680" height="448" fill="#ffffff"/>
+  <text x="340" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Here some products of non-zero classes are zero</text>
+  <rect x="120" y="90" width="54" height="252" fill="#dbe6ef"/>
+  <rect x="174" y="54" width="378" height="36" fill="#dbe6ef"/>
+  <rect x="120" y="54" width="432" height="36" fill="#dbe6ef"/>
+  <text x="147" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">times</text>
+  <text x="201" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">1</text>
+  <text x="255" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">2</text>
+  <text x="309" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">3</text>
+  <text x="363" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">4</text>
+  <text x="417" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">5</text>
+  <text x="471" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">6</text>
+  <text x="525" y="76.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">7</text>
+  <line x1="120" y1="54" x2="552" y2="54" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">1</text>
+  <text x="201" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">1</text>
+  <text x="255" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="309" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">3</text>
+  <text x="363" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="417" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">5</text>
+  <text x="471" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="525" y="112.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">7</text>
+  <line x1="120" y1="90" x2="552" y2="90" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="201" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="255" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="309" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="363" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">0</text>
+  <text x="417" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="471" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="525" y="148.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <line x1="120" y1="126" x2="552" y2="126" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">3</text>
+  <text x="201" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">3</text>
+  <text x="255" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="309" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">1</text>
+  <text x="363" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="417" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">7</text>
+  <text x="471" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="525" y="184.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">5</text>
+  <line x1="120" y1="162" x2="552" y2="162" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="201" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="255" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">0</text>
+  <text x="309" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="363" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">0</text>
+  <text x="417" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="471" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">0</text>
+  <text x="525" y="220.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <line x1="120" y1="198" x2="552" y2="198" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">5</text>
+  <text x="201" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">5</text>
+  <text x="255" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="309" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">7</text>
+  <text x="363" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="417" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">1</text>
+  <text x="471" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="525" y="256.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">3</text>
+  <line x1="120" y1="234" x2="552" y2="234" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="201" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="255" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="309" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="363" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">0</text>
+  <text x="417" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="471" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="525" y="292.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <line x1="120" y1="270" x2="552" y2="270" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="147" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">7</text>
+  <text x="201" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">7</text>
+  <text x="255" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="309" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">5</text>
+  <text x="363" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="417" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">3</text>
+  <text x="471" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">2</text>
+  <text x="525" y="328.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">1</text>
+  <line x1="120" y1="306" x2="552" y2="306" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="120" y1="342" x2="552" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="174" y1="54" x2="174" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="228" y1="54" x2="228" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="282" y1="54" x2="282" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="336" y1="54" x2="336" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="390" y1="54" x2="390" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="444" y1="54" x2="444" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="498" y1="54" x2="498" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="120" y1="54" x2="120" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="552" y1="54" x2="552" y2="342" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="336" y="126" width="54" height="36" fill="#f9ecec" stroke="#a33a3a" stroke-width="1.6" fill-opacity="0.7"/>
+  <rect x="228" y="198" width="54" height="36" fill="#f9ecec" stroke="#a33a3a" stroke-width="1.6" fill-opacity="0.7"/>
+  <rect x="336" y="198" width="54" height="36" fill="#f9ecec" stroke="#a33a3a" stroke-width="1.6" fill-opacity="0.7"/>
+  <rect x="444" y="198" width="54" height="36" fill="#f9ecec" stroke="#a33a3a" stroke-width="1.6" fill-opacity="0.7"/>
+  <rect x="336" y="270" width="54" height="36" fill="#f9ecec" stroke="#a33a3a" stroke-width="1.6" fill-opacity="0.7"/>
+  <text x="340" y="372" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#a33a3a" text-anchor="middle" font-weight="bold">the zero divisors are 2, 4, 6</text>
+  <text x="60" y="400" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Rows two, four, and six each contain a zero, so those classes kill something.</text>
+  <text x="60" y="418" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">A field has no such cell anywhere, so this system is not a field, and it is not</text>
+  <text x="60" y="436" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">even an integral domain.</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 330" width="700" height="330" role="img">
+  <title>Unwinding the Euclidean algorithm to an integer combination</title>
+  <desc>Three lines that substitute each earlier remainder back into the expression, turning twenty-one into seven copies of four hundred sixty-two minus three copies of one thousand seventy-one.</desc>
+  <rect x="0" y="0" width="700" height="330" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Running the ladder backwards</text>
+  <text x="60" y="70" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">start from the second-last line</text>
+  <rect x="60" y="80" width="580" height="40" fill="#eef2f6" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="350" y="104.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">21 equals 462 minus 3 times 147</text>
+  <line x1="350" y1="122" x2="350" y2="131" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="350,138 353.15,131 346.85,131" fill="#5b6672"/>
+  <text x="60" y="144" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">substitute 147 from the line above</text>
+  <rect x="60" y="154" width="580" height="40" fill="#eef2f6" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="350" y="178.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">21 equals 462 minus 3 times (1071 minus 2 times 462)</text>
+  <line x1="350" y1="196" x2="350" y2="205" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="350,212 353.15,205 346.85,205" fill="#5b6672"/>
+  <text x="60" y="218" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">collect the copies of each number</text>
+  <rect x="60" y="228" width="580" height="40" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="350" y="252.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">21 equals 7 times 462 minus 3 times 1071</text>
+  <rect x="150" y="288" width="400" height="36" fill="#ffffff" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="350" y="310.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">check: 3234 minus 3213 equals 21</text>
+  <text x="60" y="285" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start"></text>
+</svg>

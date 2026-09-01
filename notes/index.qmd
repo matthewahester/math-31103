@@ -1,0 +1,19 @@
+# Unit notes
+
+The units below are the teaching spine of the course:
+
+- [Week 1 — Sets, functions, and binary operations](week-01.qmd)
+- [Week 2 — Permutations and the symmetric group](week-02.qmd)
+- [Week 3 — Divisibility and the division algorithm](week-03.qmd)
+- [Week 4 — The Euclidean algorithm, primes, and unique factorization](week-04.qmd)
+- [Week 5 — Equivalence relations, partitions, and congruence classes](week-05.qmd)
+- [Week 6 — Groups and subgroups](week-06.qmd)
+- [Week 7 — Cyclic groups and the order of an element](week-07.qmd)
+- [Week 8 — Cosets and Lagrange's theorem](week-08.qmd)
+- [Week 9 — Direct products](week-09.qmd)
+- [Week 10 — Normal subgroups and quotient groups](week-10.qmd)
+- [Week 11 — Isomorphisms and structural invariants](week-11.qmd)
+- [Week 12 — Homomorphisms and the isomorphism theorems](week-12.qmd)
+- [Week 13 — Cayley's theorem and permutation representations](week-13.qmd)
+- [Week 14 — Rings and integral domains](week-14.qmd)
+- [Week 15 — Fields, characteristic, and the arc of the course](week-15.qmd)

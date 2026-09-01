@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 350" width="700" height="350" role="img">
+  <title>A group carved into cosets of a subgroup</title>
+  <desc>A long rectangle divided into four equal strips, the first labelled as the subgroup and the rest as its translates, each strip the same width.</desc>
+  <rect x="0" y="0" width="700" height="350" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every coset is the same size as the subgroup</text>
+  <rect x="60" y="62" width="145" height="120" fill="#3f7a52" stroke="#3f7a52" stroke-width="1.4" fill-opacity="0.16"/>
+  <rect x="60" y="62" width="145" height="120" fill="none" stroke="#3f7a52" stroke-width="1.4"/>
+  <text x="132" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#3f7a52" text-anchor="middle" font-weight="bold">H itself</text>
+  <circle cx="100" cy="140" r="8" fill="#3f7a52" fill-opacity="0.75"/>
+  <circle cx="132" cy="140" r="8" fill="#3f7a52" fill-opacity="0.75"/>
+  <circle cx="164" cy="140" r="8" fill="#3f7a52" fill-opacity="0.75"/>
+  <rect x="205" y="62" width="145" height="120" fill="#2f6f9f" stroke="#2f6f9f" stroke-width="1.4" fill-opacity="0.16"/>
+  <rect x="205" y="62" width="145" height="120" fill="none" stroke="#2f6f9f" stroke-width="1.4"/>
+  <text x="277" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#2f6f9f" text-anchor="middle" font-weight="bold">a H</text>
+  <circle cx="245" cy="140" r="8" fill="#2f6f9f" fill-opacity="0.75"/>
+  <circle cx="277" cy="140" r="8" fill="#2f6f9f" fill-opacity="0.75"/>
+  <circle cx="309" cy="140" r="8" fill="#2f6f9f" fill-opacity="0.75"/>
+  <rect x="350" y="62" width="145" height="120" fill="#c2622d" stroke="#c2622d" stroke-width="1.4" fill-opacity="0.16"/>
+  <rect x="350" y="62" width="145" height="120" fill="none" stroke="#c2622d" stroke-width="1.4"/>
+  <text x="422" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c2622d" text-anchor="middle" font-weight="bold">b H</text>
+  <circle cx="390" cy="140" r="8" fill="#c2622d" fill-opacity="0.75"/>
+  <circle cx="422" cy="140" r="8" fill="#c2622d" fill-opacity="0.75"/>
+  <circle cx="454" cy="140" r="8" fill="#c2622d" fill-opacity="0.75"/>
+  <rect x="495" y="62" width="145" height="120" fill="#6b5b95" stroke="#6b5b95" stroke-width="1.4" fill-opacity="0.16"/>
+  <rect x="495" y="62" width="145" height="120" fill="none" stroke="#6b5b95" stroke-width="1.4"/>
+  <text x="567" y="92" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5b95" text-anchor="middle" font-weight="bold">c H</text>
+  <circle cx="535" cy="140" r="8" fill="#6b5b95" fill-opacity="0.75"/>
+  <circle cx="567" cy="140" r="8" fill="#6b5b95" fill-opacity="0.75"/>
+  <circle cx="599" cy="140" r="8" fill="#6b5b95" fill-opacity="0.75"/>
+  <line x1="60" y1="200" x2="640" y2="200" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round"/>
+  <text x="350" y="222" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">four cosets in all, so the index is four</text>
+  <text x="132" y="250" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start">each holds the same number of elements</text>
+  <text x="60" y="292" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The cosets do not overlap and together they cover the group, because they are the</text>
+  <text x="60" y="310" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">classes of an equivalence relation. Multiplying by a fixed element is a bijection,</text>
+  <text x="60" y="328" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">so no strip can be wider or narrower than the one before it. Counting the strips</text>
+  <text x="60" y="346" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">gives the order of the group as the index times the order of the subgroup.</text>
+</svg>

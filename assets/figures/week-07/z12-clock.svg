@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img">
+  <title>The integers modulo twelve as a clock with one subgroup marked</title>
+  <desc>Twelve positions around a circle, with the four positions reached by repeatedly adding three joined by arrows into a square inscribed in the circle.</desc>
+  <rect x="0" y="0" width="640" height="400" fill="#ffffff"/>
+  <text x="320" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Repeatedly adding three closes up after four steps</text>
+  <circle cx="250" cy="200" r="130" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.5"/>
+  <line x1="265.556" y1="85.556" x2="359.494" y2="179.494" stroke="#c2622d" stroke-width="1.7" stroke-linecap="round"/>
+  <polygon points="364.444,184.444 361.721,177.267 357.267,181.721" fill="#c2622d"/>
+  <line x1="364.444" y1="215.556" x2="270.506" y2="309.494" stroke="#c2622d" stroke-width="1.7" stroke-linecap="round"/>
+  <polygon points="265.556,314.444 272.733,311.721 268.279,307.267" fill="#c2622d"/>
+  <line x1="234.444" y1="314.444" x2="140.506" y2="220.506" stroke="#c2622d" stroke-width="1.7" stroke-linecap="round"/>
+  <polygon points="135.556,215.556 138.279,222.733 142.733,218.279" fill="#c2622d"/>
+  <line x1="135.556" y1="184.444" x2="229.494" y2="90.506" stroke="#c2622d" stroke-width="1.7" stroke-linecap="round"/>
+  <polygon points="234.444,85.556 227.267,88.279 231.721,92.733" fill="#c2622d"/>
+  <circle cx="250" cy="70" r="19" fill="#dbe6ef" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="250" y="75" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">0</text>
+  <circle cx="315" cy="87.417" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="315" y="92.417" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">1</text>
+  <circle cx="362.583" cy="135" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="362.583" y="140" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">2</text>
+  <circle cx="380" cy="200" r="19" fill="#dbe6ef" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="380" y="205" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">3</text>
+  <circle cx="362.583" cy="265" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="362.583" y="270" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">4</text>
+  <circle cx="315" cy="312.583" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="315" y="317.583" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">5</text>
+  <circle cx="250" cy="330" r="19" fill="#dbe6ef" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="250" y="335" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">6</text>
+  <circle cx="185" cy="312.583" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="185" y="317.583" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">7</text>
+  <circle cx="137.417" cy="265" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="137.417" y="270" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">8</text>
+  <circle cx="120" cy="200" r="19" fill="#dbe6ef" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="120" y="205" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">9</text>
+  <circle cx="137.417" cy="135" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="137.417" y="140" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">10</text>
+  <circle cx="185" cy="87.417" r="19" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="185" y="92.417" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">11</text>
+  <text x="430" y="120" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="start" font-weight="bold">adding 3 repeatedly</text>
+  <text x="430" y="146" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">0 then 3 then 6 then 9</text>
+  <text x="430" y="168" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">then back to 0</text>
+  <text x="430" y="190" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">four positions in all</text>
+  <text x="430" y="212" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">so 3 has order four</text>
+  <text x="60" y="356" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Four is twelve divided by the greatest common divisor of twelve and three,</text>
+  <text x="60" y="374" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">which is the general formula. Starting from 5 instead would visit all twelve</text>
+  <text x="60" y="392" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">positions, because 5 and 12 share no factor.</text>
+</svg>

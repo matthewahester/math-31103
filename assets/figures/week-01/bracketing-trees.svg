@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 320" width="660" height="320" role="img">
+  <title>Two bracketings of the same subtraction</title>
+  <desc>Two tree diagrams for 5 minus 3 minus 2, one grouping the left pair and one the right, ending on the different values 0 and 4.</desc>
+  <rect x="0" y="0" width="660" height="320" fill="#ffffff"/>
+  <text x="330" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Subtraction is not associative</text>
+  <text x="130" y="62" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#2f6f9f" text-anchor="middle" font-weight="bold">group the left pair</text>
+  <rect x="75" y="78" width="110" height="32" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="130" y="98.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(5 minus 3) minus 2</text>
+  <text x="130" y="130" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">equals 2 minus 2</text>
+  <line x1="130" y1="138" x2="130" y2="155" stroke="#2f6f9f" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="130,162 133.15,155 126.85,155" fill="#2f6f9f"/>
+  <rect x="60" y="168" width="140" height="34" fill="#dbe6ef" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="130" y="189.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">the value is 0</text>
+  <text x="470" y="62" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#c2622d" text-anchor="middle" font-weight="bold">group the right pair</text>
+  <rect x="415" y="78" width="110" height="32" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="470" y="98.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">5 minus (3 minus 2)</text>
+  <text x="470" y="130" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">equals 5 minus 1</text>
+  <line x1="470" y1="138" x2="470" y2="155" stroke="#c2622d" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="470,162 473.15,155 466.85,155" fill="#c2622d"/>
+  <rect x="400" y="168" width="140" height="34" fill="#dbe6ef" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="470" y="189.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">the value is 4</text>
+  <line x1="330" y1="70" x2="330" y2="215" stroke="#c9d1d9" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="5 5"/>
+  <text x="40" y="244" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Both trees start from the same three numbers in the same order. They differ only</text>
+  <text x="40" y="262" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">in where the parentheses go, and they end on different values, so the parentheses</text>
+  <text x="40" y="280" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">cannot be dropped. That is exactly what associativity would have bought, and it</text>
+  <text x="40" y="298" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">is why the axiom is on the list.</text>
+</svg>

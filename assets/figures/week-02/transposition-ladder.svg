@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 350" width="660" height="350" role="img">
+  <title>A five-cycle built from four transpositions</title>
+  <desc>Four swap steps applied in turn to the list 1 2 3 4 5, each row showing the arrangement after one more swap, ending on the arrangement the five-cycle produces.</desc>
+  <rect x="0" y="0" width="660" height="350" fill="#ffffff"/>
+  <text x="330" y="28" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#1f2933" text-anchor="middle" font-weight="bold">Building the five-cycle from swaps, rightmost swap applied first</text>
+  <rect x="45" y="60" width="250" height="38" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="170" y="83.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">start</text>
+  <line x1="300" y1="79" x2="333" y2="79" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="340,79 333,75.85 333,82.15" fill="#5b6672"/>
+  <rect x="345" y="60" width="160" height="38" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="425" y="83.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">1 2 3 4 5</text>
+  <rect x="45" y="112" width="250" height="38" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="170" y="135.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">apply the swap of 1 and 2</text>
+  <line x1="300" y1="131" x2="333" y2="131" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="340,131 333,127.85 333,134.15" fill="#5b6672"/>
+  <rect x="345" y="112" width="160" height="38" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="425" y="135.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">2 1 3 4 5</text>
+  <text x="520" y="136" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">one swap</text>
+  <rect x="45" y="164" width="250" height="38" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="170" y="187.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">then the swap of 1 and 3</text>
+  <line x1="300" y1="183" x2="333" y2="183" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="340,183 333,179.85 333,186.15" fill="#5b6672"/>
+  <rect x="345" y="164" width="160" height="38" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="425" y="187.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">2 3 1 4 5</text>
+  <text x="520" y="188" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">two swaps</text>
+  <rect x="45" y="216" width="250" height="38" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="170" y="239.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">then the swap of 1 and 4</text>
+  <line x1="300" y1="235" x2="333" y2="235" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="340,235 333,231.85 333,238.15" fill="#5b6672"/>
+  <rect x="345" y="216" width="160" height="38" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="425" y="239.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">2 3 4 1 5</text>
+  <text x="520" y="240" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">three swaps</text>
+  <rect x="45" y="268" width="250" height="38" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="170" y="291.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">then the swap of 1 and 5</text>
+  <line x1="300" y1="287" x2="333" y2="287" stroke="#5b6672" stroke-width="1.2" stroke-linecap="round"/>
+  <polygon points="340,287 333,283.85 333,290.15" fill="#5b6672"/>
+  <rect x="345" y="268" width="160" height="38" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="425" y="291.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">2 3 4 5 1</text>
+  <text x="520" y="292" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">four swaps</text>
+  <text x="45" y="328" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Four swaps, so the five-cycle is even. A different route may use a different number of</text>
+  <text x="45" y="346" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">swaps, but never one of the other parity.</text>
+</svg>

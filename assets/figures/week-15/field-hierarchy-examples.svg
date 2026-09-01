@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" role="img">
+  <title>Three named rings placed in the hierarchy</title>
+  <desc>Three nested regions labelled commutative rings with a one, integral domains, and fields, with the classes modulo eight, the integers, and the classes modulo seven each placed in exactly one region.</desc>
+  <rect x="0" y="0" width="700" height="360" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Where three familiar systems sit</text>
+  <rect x="60" y="54" width="580" height="250" fill="none" rx="10" stroke="#2f6f9f" stroke-width="1.8"/>
+  <text x="72" y="76" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="start" font-weight="bold">commutative rings with a one</text>
+  <rect x="122" y="98.64" width="456" height="160.72" fill="none" rx="10" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="134" y="120.64" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="start" font-weight="bold">integral domains</text>
+  <rect x="184" y="143.28" width="332" height="71.44" fill="none" rx="10" stroke="#3f7a52" stroke-width="1.8"/>
+  <text x="196" y="165.28" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="start" font-weight="bold">fields</text>
+  <rect x="90" y="236" width="160" height="50" fill="#dbe6ef" rx="6" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="170" y="257" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">classes modulo 8</text>
+  <text x="170" y="274" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">two times four is zero</text>
+  <rect x="268" y="186" width="160" height="50" fill="#dbe6ef" rx="6" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="348" y="207" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">the integers</text>
+  <text x="348" y="224" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">no inverse for two</text>
+  <rect x="268" y="116" width="160" height="50" fill="#e2eee6" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="348" y="137" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">classes modulo 7</text>
+  <text x="348" y="154" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#5b6672" text-anchor="middle">every non-zero is a unit</text>
+  <text x="60" y="336" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Each box sits in its own region and in none further in, so both containments</text>
+  <text x="60" y="354" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">are strict. The integers are the standard witness that a domain need not be a</text>
+</svg>

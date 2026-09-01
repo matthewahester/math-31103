@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="700" height="340" role="img">
+  <title>The Euclidean algorithm as a ladder of divisions</title>
+  <desc>Three division lines in which each remainder becomes the next divisor, ending on a remainder of zero and leaving the last non-zero remainder as the greatest common divisor.</desc>
+  <rect x="0" y="0" width="700" height="340" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Each remainder becomes the next divisor</text>
+  <rect x="60" y="62" width="380" height="42" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="250" y="87.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">1071 equals 462 times 2 plus 147</text>
+  <line x1="240" y1="106" x2="181.746" y2="122.132" stroke="#c2622d" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="175,124 182.587,125.168 180.905,119.096" fill="#c2622d"/>
+  <text x="250" y="122" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">the remainder 147 becomes the next divisor</text>
+  <rect x="60" y="128" width="380" height="42" fill="#eef2f6" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="250" y="153.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">462 equals 147 times 3 plus 21</text>
+  <line x1="240" y1="172" x2="181.746" y2="188.132" stroke="#c2622d" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="175,190 182.587,191.168 180.905,185.096" fill="#c2622d"/>
+  <text x="250" y="188" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#c2622d" text-anchor="start">the remainder 21 becomes the next divisor</text>
+  <rect x="60" y="194" width="380" height="42" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="250" y="219.5" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2933" text-anchor="middle">147 equals 21 times 7 plus 0</text>
+  <rect x="460" y="62" width="200" height="42" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="560" y="79" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">the remainders fall</text>
+  <text x="560" y="96" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">1071, 462, 147, 21, 0</text>
+  <rect x="460" y="128" width="200" height="56" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="560" y="152" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">so the run must stop</text>
+  <text x="560" y="169" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">a strictly falling sequence of</text>
+  <text x="470" y="178" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="start">non-negative integers is finite</text>
+  <rect x="460" y="200" width="200" height="42" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="560" y="217" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">the answer, in short</text>
+  <text x="560" y="234" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">the last non-zero remainder</text>
+  <text x="560" y="268" font-family="Helvetica, Arial, sans-serif" font-size="13.5" fill="#3f7a52" text-anchor="middle" font-weight="bold">gcd of 1071 and 462 equals 21</text>
+  <text x="60" y="320" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">No number was factored anywhere in that run, which is why the method scales to integers</text>
+  <text x="60" y="338" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">far too large to factor.</text>
+</svg>

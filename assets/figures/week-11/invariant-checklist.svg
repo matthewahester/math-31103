@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 392" width="700" height="392" role="img">
+  <title>Which invariant separates which pair</title>
+  <desc>A table listing pairs of groups of the same size alongside the structural property that distinguishes them.</desc>
+  <rect x="0" y="0" width="700" height="392" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One property is enough, if it is the right one</text>
+  <rect x="22" y="58" width="634" height="44" fill="#eef2f6"/>
+  <text x="31" y="84.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">the two groups</text>
+  <text x="327" y="84.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle" font-weight="bold">same size</text>
+  <text x="373" y="84.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="start" font-weight="bold">what separates them</text>
+  <line x1="22" y1="58" x2="656" y2="58" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="31" y="128.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">cyclic 4 against the four-group</text>
+  <text x="327" y="128.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="373" y="128.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">elements of order four: two against none</text>
+  <line x1="22" y1="102" x2="656" y2="102" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="22" y="146" width="634" height="44" fill="#eef2f6"/>
+  <text x="31" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">cyclic 6 against permutations of three</text>
+  <text x="327" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">6</text>
+  <text x="373" y="172.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">abelian against not abelian</text>
+  <line x1="22" y1="146" x2="656" y2="146" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="31" y="216.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">coprime to 8 against coprime to 10</text>
+  <text x="327" y="216.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">4</text>
+  <text x="373" y="216.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">elements of order four: none against two</text>
+  <line x1="22" y1="190" x2="656" y2="190" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="22" y="234" width="634" height="44" fill="#eef2f6"/>
+  <text x="31" y="260.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">cyclic 8 against cyclic 4 times cyclic 2</text>
+  <text x="327" y="260.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="middle">8</text>
+  <text x="373" y="260.3" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">elements of order eight: two against none</text>
+  <line x1="22" y1="234" x2="656" y2="234" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="22" y1="278" x2="656" y2="278" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="290" y1="58" x2="290" y2="278" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="364" y1="58" x2="364" y2="278" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="22" y1="58" x2="22" y2="278" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="656" y1="58" x2="656" y2="278" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="22" y="310" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">To prove two groups are not isomorphic, find one property preserved by every</text>
+  <text x="22" y="328" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">isomorphism on which they disagree. To prove they are isomorphic, no list of</text>
+  <text x="22" y="346" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">agreements is enough: an explicit map must be built and checked.</text>
+</svg>

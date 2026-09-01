@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" role="img">
+  <title>The arc of the course as a ladder of demands</title>
+  <desc>Four stacked steps, each adding one demand to the one below, from a single operation with closure up to two operations with inverses for both.</desc>
+  <rect x="0" y="0" width="700" height="400" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">One operation, then two, then inverses for both</text>
+  <rect x="80" y="300" width="540" height="54" fill="#5b6672" rx="8" stroke="#5b6672" stroke-width="1.5" fill-opacity="0.14"/>
+  <rect x="80" y="300" width="540" height="54" fill="none" rx="8" stroke="#5b6672" stroke-width="1.5"/>
+  <text x="100" y="324" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="start" font-weight="bold">a set with one operation</text>
+  <text x="100" y="343" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">closure and associativity</text>
+  <text x="604" y="332" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">Week 1</text>
+  <rect x="80" y="232" width="540" height="54" fill="#2f6f9f" rx="8" stroke="#2f6f9f" stroke-width="1.5" fill-opacity="0.14"/>
+  <rect x="80" y="232" width="540" height="54" fill="none" rx="8" stroke="#2f6f9f" stroke-width="1.5"/>
+  <text x="100" y="256" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#2f6f9f" text-anchor="start" font-weight="bold">a group</text>
+  <text x="100" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">add an identity and inverses</text>
+  <text x="604" y="264" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">Weeks 6 to 13</text>
+  <rect x="80" y="164" width="540" height="54" fill="#c2622d" rx="8" stroke="#c2622d" stroke-width="1.5" fill-opacity="0.14"/>
+  <rect x="80" y="164" width="540" height="54" fill="none" rx="8" stroke="#c2622d" stroke-width="1.5"/>
+  <text x="100" y="188" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#c2622d" text-anchor="start" font-weight="bold">a ring</text>
+  <text x="100" y="207" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">add a second operation that distributes</text>
+  <text x="604" y="196" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">Week 14</text>
+  <rect x="80" y="96" width="540" height="54" fill="#6b5b95" rx="8" stroke="#6b5b95" stroke-width="1.5" fill-opacity="0.14"/>
+  <rect x="80" y="96" width="540" height="54" fill="none" rx="8" stroke="#6b5b95" stroke-width="1.5"/>
+  <text x="100" y="120" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#6b5b95" text-anchor="start" font-weight="bold">an integral domain</text>
+  <text x="100" y="139" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">forbid a product of non-zeros from vanishing</text>
+  <text x="604" y="128" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">Week 14</text>
+  <rect x="80" y="40" width="540" height="46" fill="#3f7a52" rx="8" stroke="#3f7a52" stroke-width="1.7" fill-opacity="0.2"/>
+  <rect x="80" y="40" width="540" height="46" fill="none" rx="8" stroke="#3f7a52" stroke-width="1.7"/>
+  <text x="100" y="60" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#3f7a52" text-anchor="start" font-weight="bold">a field</text>
+  <text x="100" y="78" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#5b6672" text-anchor="start">give every non-zero element an inverse for the second operation</text>
+  <text x="604" y="68" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5b6672" text-anchor="end">Week 15</text>
+  <line x1="350" y1="292" x2="350" y2="293" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="350,286 346.85,293 353.15,293" fill="#5b6672"/>
+  <line x1="350" y1="224" x2="350" y2="225" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="350,218 346.85,225 353.15,225" fill="#5b6672"/>
+  <line x1="350" y1="156" x2="350" y2="157" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="350,150 346.85,157 353.15,157" fill="#5b6672"/>
+  <line x1="350" y1="92" x2="350" y2="93" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="350,86 346.85,93 353.15,93" fill="#5b6672"/>
+  <text x="60" y="372" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Read from the bottom: each step is the one below plus a single further demand.</text>
+  <text x="60" y="390" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The four properties named in Week 1 are the four the top step asks of both</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400" role="img">
+  <title>A table with an identity and inverses whose operation is not associative</title>
+  <desc>A five by five operation table on e, a, b, c, d in which every element appears once in each row and column, yet two bracketings of a star b star c give different values.</desc>
+  <rect x="0" y="0" width="700" height="400" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Everything a table can show you, passing at once</text>
+  <rect x="175" y="88" width="58" height="180" fill="#dbe6ef"/>
+  <rect x="233" y="52" width="290" height="36" fill="#dbe6ef"/>
+  <rect x="175" y="52" width="348" height="36" fill="#dbe6ef"/>
+  <text x="204" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">star</text>
+  <text x="262" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">e</text>
+  <text x="320" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">a</text>
+  <text x="378" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">b</text>
+  <text x="436" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">c</text>
+  <text x="494" y="74.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">d</text>
+  <line x1="175" y1="52" x2="523" y2="52" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="204" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <text x="262" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <text x="320" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <text x="378" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <text x="436" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <text x="494" y="110.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <line x1="175" y1="88" x2="523" y2="88" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="204" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <text x="262" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <text x="320" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <text x="378" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <text x="436" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <text x="494" y="146.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <line x1="175" y1="124" x2="523" y2="124" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="204" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <text x="262" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <text x="320" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <text x="378" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <text x="436" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <text x="494" y="182.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <line x1="175" y1="160" x2="523" y2="160" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="204" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <text x="262" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <text x="320" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <text x="378" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <text x="436" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <text x="494" y="218.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <line x1="175" y1="196" x2="523" y2="196" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="204" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <text x="262" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">d</text>
+  <text x="320" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">b</text>
+  <text x="378" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">c</text>
+  <text x="436" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">a</text>
+  <text x="494" y="254.3" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">e</text>
+  <line x1="175" y1="232" x2="523" y2="232" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="175" y1="268" x2="523" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="233" y1="52" x2="233" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="291" y1="52" x2="291" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="349" y1="52" x2="349" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="407" y1="52" x2="407" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="465" y1="52" x2="465" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="175" y1="52" x2="175" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="523" y1="52" x2="523" y2="268" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="30" y="112" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">identity row and</text>
+  <text x="30" y="128" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">column repeat the</text>
+  <text x="30" y="144" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">headings in order</text>
+  <text x="30" y="184" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">e sits on the whole</text>
+  <text x="30" y="200" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">diagonal, so every</text>
+  <text x="30" y="216" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">element is its own</text>
+  <text x="30" y="232" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">inverse</text>
+  <rect x="60" y="262" width="250" height="38" fill="#eef2f6" rx="6" stroke="#a33a3a" stroke-width="1.2"/>
+  <text x="185" y="277" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">(a star b) star c equals d star c</text>
+  <text x="185" y="294" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">which the table gives as a</text>
+  <rect x="370" y="262" width="250" height="38" fill="#eef2f6" rx="6" stroke="#a33a3a" stroke-width="1.2"/>
+  <text x="495" y="277" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">a star (b star c) equals a star d</text>
+  <text x="495" y="294" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">which the table gives as c</text>
+  <text x="340" y="286" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">against</text>
+  <text x="60" y="336" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Every element appears once in every row and once in every column, there is an</text>
+  <text x="60" y="354" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">identity, and every element has an inverse. The operation is still not</text>
+  <text x="60" y="372" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">associative, and no amount of staring at the table would have told you.</text>
+</svg>

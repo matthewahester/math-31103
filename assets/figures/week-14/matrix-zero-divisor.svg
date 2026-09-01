@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="700" height="320" role="img">
+  <title>Two non-zero matrices whose product is zero</title>
+  <desc>Two two by two matrices, one with a single one in the top left and one with a single one in the bottom right, multiplied to give the matrix of all zeros.</desc>
+  <rect x="0" y="0" width="700" height="320" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Neither factor is zero and the product is</text>
+  <rect x="90" y="80" width="116" height="92" fill="none" rx="8" stroke="#2f6f9f" stroke-width="1.8"/>
+  <text x="124" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">1</text>
+  <text x="172" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="124" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="172" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="148" y="192" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="middle">one entry in the top left</text>
+  <text x="250" y="130" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">times</text>
+  <rect x="310" y="80" width="116" height="92" fill="none" rx="8" stroke="#c2622d" stroke-width="1.8"/>
+  <text x="344" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="392" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="344" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="392" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">1</text>
+  <text x="368" y="192" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="middle">one entry in the bottom right</text>
+  <text x="470" y="130" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5b6672" text-anchor="middle">equals</text>
+  <rect x="530" y="80" width="116" height="92" fill="none" rx="8" stroke="#a33a3a" stroke-width="1.8"/>
+  <text x="564" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="612" y="114" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="564" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="612" y="154" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle">0</text>
+  <text x="588" y="192" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="middle">every entry zero</text>
+  <text x="60" y="240" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The first row of the left factor meets the first column of the right factor in</text>
+  <text x="60" y="258" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">one times zero, and every other entry of the product is a sum of terms with a</text>
+  <text x="60" y="276" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">zero in them. So cancellation fails here: the left factor times the right factor</text>
+  <text x="60" y="294" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">and the left factor times the zero matrix agree, while the right factor and the</text>
+  <text x="60" y="312" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">zero matrix do not.</text>
+</svg>

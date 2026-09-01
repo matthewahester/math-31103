@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360" role="img">
+  <title>A common divisor divides every integer combination</title>
+  <desc>Two bars made of blocks of equal width representing a and b as whole numbers of copies of d, combined into a third bar that is also a whole number of copies of d.</desc>
+  <rect x="0" y="0" width="700" height="360" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2933" text-anchor="middle" font-weight="bold">If d divides a and d divides b, then d divides a x plus b y</text>
+  <rect x="70" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <rect x="112" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <rect x="154" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <rect x="196" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <rect x="238" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#2f6f9f" stroke-width="1.2"/>
+  <text x="175" y="68" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="middle" font-weight="bold">a equals 5 copies of d</text>
+  <text x="70" y="128" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">so a equals d times 5</text>
+  <rect x="400" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#c2622d" stroke-width="1.2"/>
+  <rect x="442" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#c2622d" stroke-width="1.2"/>
+  <rect x="484" y="80" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#c2622d" stroke-width="1.2"/>
+  <text x="463" y="68" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">b equals 3 copies of d</text>
+  <text x="400" y="128" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">so b equals d times 3</text>
+  <line x1="350" y1="200" x2="350" y2="225" stroke="#5b6672" stroke-width="1.3" stroke-linecap="round"/>
+  <polygon points="350,232 353.15,225 346.85,225" fill="#5b6672"/>
+  <text x="60" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">take two copies of a and subtract one copy of b:</text>
+  <rect x="70" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="112" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="154" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="196" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="238" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="280" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <rect x="322" y="250" width="39" height="30" fill="#dbe6ef" rx="3" stroke="#3f7a52" stroke-width="1.2"/>
+  <text x="217" y="238" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="middle" font-weight="bold">the combination is 7 copies of d</text>
+  <text x="70" y="298" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start"></text>
+  <text x="70" y="306" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Nothing was checked about the numbers 5 and 3. Whatever whole numbers of copies</text>
+  <text x="70" y="324" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">a and b are, an integer combination of them is again a whole number of copies,</text>
+  <text x="70" y="342" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">because the copies never have to be broken. That is the entire proof.</text>
+</svg>

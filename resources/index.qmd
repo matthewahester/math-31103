@@ -1,0 +1,9 @@
+# Resources
+
+The course site is the primary source of truth for this course, at no cost to students. These open sources support and extend it:
+
+- [Abstract Algebra: Theory and Applications](https://scholarworks.sfasu.edu/ebooks/23/) (Thomas W. Judson, hosted by SFA ScholarWorks, Stephen F. Austin State University) — required open textbook. availability and licence not yet confirmed.
+- [MIT OpenCourseWare 18.703 Modern Algebra, Spring 2013](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/) (James McKernan, MIT OpenCourseWare) — open proof based reference. availability and licence not yet confirmed.
+- [Group Explorer 3](https://nathancarter.github.io/group-explorer/) (Nathan Carter and Ray Ellis) — open visualization complement. availability and licence not yet confirmed.
+
+Every reading this course points to is openly available online at no cost, including the textbook the syllabus requires, and the unit notes are written to stand on their own. The required open textbook is where a student goes for a fuller treatment with a much larger exercise set. The open proof-based reference is a second, independently written development of the same group theory, useful when one author's phrasing does not land. The visualization complement draws Cayley diagrams, multiplication tables, cycle graphs, and subgroup lattices for the small groups the course names, and is worth opening in the group theory weeks. Availability and licence are not confirmed for any source listed here.

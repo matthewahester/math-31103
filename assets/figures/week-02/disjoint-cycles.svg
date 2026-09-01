@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" width="640" height="330" role="img">
+  <title>The same permutation redrawn as disjoint cycles</title>
+  <desc>The same permutation shown as one three-element loop, one two-element loop, and one fixed element, the three sharing no numbers.</desc>
+  <rect x="0" y="0" width="640" height="330" fill="#ffffff"/>
+  <text x="320" y="28" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2933" text-anchor="middle" font-weight="bold">The same permutation, redrawn as disjoint cycles</text>
+  <line x1="149.5" y1="84.454" x2="180.694" y2="138.483" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="184.194,144.545 183.422,136.908 177.966,140.058" fill="#2f6f9f"/>
+  <line x1="174.694" y1="161" x2="112.307" y2="161" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="105.307,161 112.307,164.15 112.307,157.85" fill="#2f6f9f"/>
+  <line x1="95.806" y1="144.546" x2="127" y2="90.517" stroke="#2f6f9f" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="130.5,84.455 124.272,88.942 129.728,92.092" fill="#2f6f9f"/>
+  <circle cx="140" cy="68" r="17" fill="#ffffff" stroke="#2f6f9f" stroke-width="1.6"/>
+  <text x="140" y="73" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">1</text>
+  <circle cx="193.694" cy="161" r="17" fill="#ffffff" stroke="#2f6f9f" stroke-width="1.6"/>
+  <text x="193.694" y="166" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">3</text>
+  <circle cx="86.307" cy="161" r="17" fill="#ffffff" stroke="#2f6f9f" stroke-width="1.6"/>
+  <text x="86.307" y="166" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">5</text>
+  <text x="140" y="244" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="middle" font-weight="bold">(1 3 5), length three</text>
+  <line x1="370" y1="97" x2="370" y2="156" stroke="#c2622d" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="370,163 373.15,156 366.85,156" fill="#c2622d"/>
+  <line x1="370" y1="163" x2="370" y2="104" stroke="#c2622d" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="370,97 366.85,104 373.15,104" fill="#c2622d"/>
+  <circle cx="370" cy="78" r="17" fill="#ffffff" stroke="#c2622d" stroke-width="1.6"/>
+  <text x="370" y="83" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">2</text>
+  <circle cx="370" cy="182" r="17" fill="#ffffff" stroke="#c2622d" stroke-width="1.6"/>
+  <text x="370" y="187" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">6</text>
+  <text x="370" y="234" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">(2 6), length two</text>
+  <circle cx="540" cy="130" r="17" fill="#ffffff" stroke="#5b6672" stroke-width="1.6"/>
+  <text x="540" y="135" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">4</text>
+  <text x="540" y="244" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle" font-weight="bold">4 is fixed</text>
+  <text x="45" y="280" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The loops share no numbers, so they commute and the order they are written in</text>
+  <text x="45" y="298" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">does not matter. The order of the whole permutation is the least common</text>
+  <text x="45" y="316" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">multiple of the loop lengths, which is six, not five and not the product.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" width="680" height="330" role="img">
+  <title>A binary operation as a map on ordered pairs</title>
+  <desc>Ordered pairs from a set feed into a rule that returns a single element of the same set.</desc>
+  <rect x="0" y="0" width="680" height="330" fill="#ffffff"/>
+  <text x="340" y="30" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">A binary operation on the set S</text>
+  <rect x="40" y="60" width="200" height="210" fill="#eef2f6" rx="8" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="140" y="86" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">ordered pairs from S</text>
+  <rect x="70" y="106" width="140" height="30" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="140" y="125.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(a, a)</text>
+  <rect x="70" y="144" width="140" height="30" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="140" y="163.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(a, b)</text>
+  <rect x="70" y="182" width="140" height="30" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="140" y="201.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(b, a)</text>
+  <rect x="70" y="220" width="140" height="30" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="140" y="239.5" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle">(b, b)</text>
+  <rect x="285" y="130" width="110" height="70" fill="#dbe6ef" rx="8" stroke="#2f6f9f" stroke-width="1.4"/>
+  <text x="340" y="160" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle" font-weight="bold">the rule</text>
+  <text x="340" y="180" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">star</text>
+  <rect x="440" y="60" width="200" height="210" fill="#eef2f6" rx="8" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="540" y="86" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">elements of S</text>
+  <rect x="490" y="125" width="100" height="32" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="540" y="145.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">a</text>
+  <rect x="490" y="175" width="100" height="32" fill="#ffffff" rx="6" stroke="#c9d1d9" stroke-width="1.2"/>
+  <text x="540" y="195.5" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">b</text>
+  <line x1="212" y1="121" x2="277.05" y2="161.313" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round"/>
+  <polygon points="283,165 278.709,158.635 275.391,163.99" fill="#5b6672"/>
+  <line x1="212" y1="159" x2="276.025" y2="164.411" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round"/>
+  <polygon points="283,165 276.29,161.272 275.76,167.549" fill="#5b6672"/>
+  <line x1="212" y1="197" x2="276.618" y2="167.876" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round"/>
+  <polygon points="283,165 275.324,165.004 277.913,170.748" fill="#5b6672"/>
+  <line x1="212" y1="235" x2="278.015" y2="169.915" stroke="#5b6672" stroke-width="1.1" stroke-linecap="round"/>
+  <polygon points="283,165 275.804,167.671 280.227,172.158" fill="#5b6672"/>
+  <line x1="397" y1="155" x2="479.085" y2="142.088" stroke="#2f6f9f" stroke-width="1.4" stroke-linecap="round"/>
+  <polygon points="486,141 478.596,138.976 479.575,145.199" fill="#2f6f9f"/>
+  <line x1="397" y1="175" x2="479.11" y2="189.761" stroke="#2f6f9f" stroke-width="1.4" stroke-linecap="round"/>
+  <polygon points="486,191 479.668,186.661 478.553,192.862" fill="#2f6f9f"/>
+  <text x="40" y="300" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Closure is not an extra condition to check afterwards: it is the requirement that</text>
+  <text x="40" y="316" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the arrow on the right lands inside S for every pair on the left.</text>
+</svg>

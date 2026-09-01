@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 436" width="700" height="436" role="img">
+  <title>The subgroups of the even permutations of four letters</title>
+  <desc>A layered diagram showing one subgroup of order one, three of order two, four of order three, one of order four, and the whole group of order twelve, with the order six level marked empty.</desc>
+  <rect x="0" y="0" width="700" height="436" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Twelve elements, and no subgroup of order six</text>
+  <text x="110" y="80" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#3f7a52" text-anchor="end" font-weight="bold">order 12</text>
+  <rect x="146" y="62" width="448" height="32" fill="#dbe6ef" rx="6" stroke="#3f7a52" stroke-width="1.4"/>
+  <text x="370" y="83" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <text x="110" y="146" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#a33a3a" text-anchor="end" font-weight="bold">order 6</text>
+  <rect x="140" y="128" width="460" height="32" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.5"/>
+  <text x="370" y="149" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="middle">no subgroup of this order exists, although six divides twelve</text>
+  <text x="110" y="212" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="end" font-weight="bold">order 4</text>
+  <rect x="146" y="194" width="448" height="32" fill="#dbe6ef" rx="6" stroke="#2f6f9f" stroke-width="1.4"/>
+  <text x="370" y="215" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <text x="110" y="272" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#6b5b95" text-anchor="end" font-weight="bold">order 3</text>
+  <rect x="146" y="254" width="103" height="32" fill="#dbe6ef" rx="6" stroke="#6b5b95" stroke-width="1.4"/>
+  <text x="197.5" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <rect x="261" y="254" width="103" height="32" fill="#dbe6ef" rx="6" stroke="#6b5b95" stroke-width="1.4"/>
+  <text x="312.5" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <rect x="376" y="254" width="103" height="32" fill="#dbe6ef" rx="6" stroke="#6b5b95" stroke-width="1.4"/>
+  <text x="427.5" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <rect x="491" y="254" width="103" height="32" fill="#dbe6ef" rx="6" stroke="#6b5b95" stroke-width="1.4"/>
+  <text x="542.5" y="275" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <text x="110" y="332" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="end" font-weight="bold">order 2</text>
+  <rect x="146" y="314" width="141.333" height="32" fill="#dbe6ef" rx="6" stroke="#c2622d" stroke-width="1.4"/>
+  <text x="216.667" y="335" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <rect x="299.333" y="314" width="141.333" height="32" fill="#dbe6ef" rx="6" stroke="#c2622d" stroke-width="1.4"/>
+  <text x="370" y="335" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <rect x="452.667" y="314" width="141.333" height="32" fill="#dbe6ef" rx="6" stroke="#c2622d" stroke-width="1.4"/>
+  <text x="523.333" y="335" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <text x="110" y="390" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="end" font-weight="bold">order 1</text>
+  <rect x="146" y="372" width="448" height="32" fill="#dbe6ef" rx="6" stroke="#1f2933" stroke-width="1.4"/>
+  <text x="370" y="393" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#1f2933" text-anchor="middle">subgroup</text>
+  <text x="60" y="420" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Ten subgroups in all. Lagrange forbids orders 5, 7, 8, 9, 10, 11; order 6 is allowed by</text>
+</svg>

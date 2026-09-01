@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 370" width="660" height="370" role="img">
+  <title>The integers wrapped onto a five-hour clock</title>
+  <desc>A circle with five marked positions, each carrying a class label and a list of integers that land on it, showing the integers coiling round the circle.</desc>
+  <rect x="0" y="0" width="660" height="370" fill="#ffffff"/>
+  <text x="330" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Wrapping the integers around a circle of five positions</text>
+  <circle cx="250" cy="185" r="110" fill="#ffffff" stroke="#c9d1d9" stroke-width="1.6"/>
+  <circle cx="250" cy="75" r="22" fill="#dbe6ef" stroke="#2f6f9f" stroke-width="1.7"/>
+  <text x="250" y="80" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">[0]</text>
+  <circle cx="354.616" cy="151.008" r="22" fill="#dbe6ef" stroke="#c2622d" stroke-width="1.7"/>
+  <text x="354.616" y="156.008" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">[1]</text>
+  <circle cx="314.656" cy="273.992" r="22" fill="#dbe6ef" stroke="#3f7a52" stroke-width="1.7"/>
+  <text x="314.656" y="278.992" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">[2]</text>
+  <circle cx="185.344" cy="273.992" r="22" fill="#dbe6ef" stroke="#6b5b95" stroke-width="1.7"/>
+  <text x="185.344" y="278.992" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">[3]</text>
+  <circle cx="145.384" cy="151.008" r="22" fill="#dbe6ef" stroke="#a33a3a" stroke-width="1.7"/>
+  <text x="145.384" y="156.008" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1f2933" text-anchor="middle">[4]</text>
+  <text x="400" y="100" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">the classes and what falls into them</text>
+  <text x="400" y="128" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="start">[0]   ..., -5, 0, 5, 10, ...</text>
+  <text x="400" y="152" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start">[1]   ..., -4, 1, 6, 11, ...</text>
+  <text x="400" y="176" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start">[2]   ..., -3, 2, 7, 12, ...</text>
+  <text x="400" y="200" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5b95" text-anchor="start">[3]   ..., -2, 3, 8, 13, ...</text>
+  <text x="400" y="224" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#a33a3a" text-anchor="start">[4]   ..., -1, 4, 9, 14, ...</text>
+  <text x="60" y="320" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Two integers land on the same position exactly when their difference is a</text>
+  <text x="60" y="338" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">multiple of five. There are exactly five positions because the division</text>
+  <text x="60" y="356" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">algorithm gives exactly five possible remainders, and never a sixth.</text>
+</svg>

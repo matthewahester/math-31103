@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" width="700" height="320" role="img">
+  <title>Four candidate operations audited against four properties</title>
+  <desc>A grid showing which of closure, associativity, an identity, and inverses each of four familiar operations satisfies.</desc>
+  <rect x="0" y="0" width="700" height="320" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2933" text-anchor="middle" font-weight="bold">Auditing four familiar rules against the four properties</text>
+  <rect x="28" y="55" width="620" height="38" fill="#eef2f6"/>
+  <text x="37" y="78.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="start" font-weight="bold">rule</text>
+  <text x="306" y="78.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">closed</text>
+  <text x="403" y="78.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">associative</text>
+  <text x="508" y="78.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">identity</text>
+  <text x="603" y="78.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">inverses</text>
+  <line x1="28" y1="55" x2="648" y2="55" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="37" y="116.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">addition on the integers</text>
+  <text x="306" y="116.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <text x="403" y="116.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <text x="508" y="116.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes, 0</text>
+  <text x="603" y="116.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <line x1="28" y1="93" x2="648" y2="93" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="28" y="131" width="620" height="38" fill="#eef2f6"/>
+  <text x="37" y="154.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">subtraction on the integers</text>
+  <text x="306" y="154.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <text x="403" y="154.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <text x="508" y="154.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <text x="603" y="154.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <line x1="28" y1="131" x2="648" y2="131" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="37" y="192.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">multiplication on the integers</text>
+  <text x="306" y="192.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <text x="403" y="192.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes</text>
+  <text x="508" y="192.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">yes, 1</text>
+  <text x="603" y="192.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <line x1="28" y1="169" x2="648" y2="169" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <rect x="28" y="207" width="620" height="38" fill="#eef2f6"/>
+  <text x="37" y="230.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="start">subtraction on the naturals</text>
+  <text x="306" y="230.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <text x="403" y="230.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <text x="508" y="230.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <text x="603" y="230.3" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#5b6672" text-anchor="middle">no</text>
+  <line x1="28" y1="207" x2="648" y2="207" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="28" y1="245" x2="648" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="264" y1="55" x2="264" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="348" y1="55" x2="348" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="458" y1="55" x2="458" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="558" y1="55" x2="558" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="28" y1="55" x2="28" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <line x1="648" y1="55" x2="648" y2="245" stroke="#c9d1d9" stroke-width="1" stroke-linecap="round"/>
+  <text x="28" y="275" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Only the first line passes all four. Multiplication on the integers fails</text>
+  <text x="28" y="293" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">only the last one, and repairing it by discarding zero is not enough either:</text>
+  <text x="28" y="311" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the integer 2 still has no integer reciprocal.</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="700" height="340" role="img">
+  <title>A set carved into equivalence classes</title>
+  <desc>A large rectangle divided into four labelled regions with no overlap and no gap, two points inside one region marked as different names for the same class.</desc>
+  <rect x="0" y="0" width="700" height="340" fill="#ffffff"/>
+  <text x="350" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">An equivalence relation carves the set into classes</text>
+  <rect x="60" y="52" width="580" height="190" fill="#ffffff" rx="8" stroke="#1f2933" stroke-width="1.5"/>
+  <rect x="60" y="52" width="170" height="190" fill="#e4edf5" stroke="#5b6672" stroke-width="1.1"/>
+  <text x="145" y="82" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">class of a</text>
+  <rect x="230" y="52" width="130" height="190" fill="#f6e6da" stroke="#5b6672" stroke-width="1.1"/>
+  <text x="295" y="82" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">class of b</text>
+  <rect x="360" y="52" width="150" height="190" fill="#e2eee6" stroke="#5b6672" stroke-width="1.1"/>
+  <text x="435" y="82" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">class of c</text>
+  <rect x="510" y="52" width="130" height="190" fill="#eae6f2" stroke="#5b6672" stroke-width="1.1"/>
+  <text x="575" y="82" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#1f2933" text-anchor="middle" font-weight="bold">class of d</text>
+  <circle cx="115" cy="150" r="7" fill="#2f6f9f"/>
+  <text x="115" y="175" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="middle">a</text>
+  <circle cx="185" cy="150" r="7" fill="#2f6f9f"/>
+  <text x="185" y="175" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="middle">a prime</text>
+  <line x1="122" y1="150" x2="178" y2="150" stroke="#2f6f9f" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <text x="150" y="130" font-family="Helvetica, Arial, sans-serif" font-size="11.5" fill="#2f6f9f" text-anchor="middle">related</text>
+  <text x="70" y="268" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">No two regions overlap, and together they cover everything: that is what it means</text>
+  <text x="70" y="286" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">to be a partition. The two marked points are related, so they lie in the same</text>
+  <text x="70" y="304" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">region and name the same class. Neither is more official than the other, which</text>
+  <text x="70" y="322" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">is why every construction on classes has to be checked for representative choice.</text>
+</svg>

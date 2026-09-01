@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+  - index.qmd
+  - syllabus.qmd
+  - schedule.qmd
+  - resources/*.qmd
+  - notes/*.qmd
+  - '!_state/'
+  resources:
+  - assets/
+lang: en
+website:
+  title: Algebraic Structures 1
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: syllabus.qmd
+      text: Syllabus
+    - href: schedule.qmd
+      text: Schedule
+    background: dark
+    pinned: true
+  sidebar:
+    style: floating
+    contents:
+    - section: Notes
+      href: notes/index.qmd
+      contents:
+      - href: notes/index.qmd
+        text: Overview
+      - href: notes/week-01.qmd
+        text: 1 — Sets, functions, and binary operations
+      - href: notes/week-02.qmd
+        text: 2 — Permutations and the symmetric group
+      - href: notes/week-03.qmd
+        text: 3 — Divisibility and the division algorithm
+      - href: notes/week-04.qmd
+        text: 4 — The Euclidean algorithm, primes, and unique factorization
+      - href: notes/week-05.qmd
+        text: 5 — Equivalence relations, partitions, and congruence classes
+      - href: notes/week-06.qmd
+        text: 6 — Groups and subgroups
+      - href: notes/week-07.qmd
+        text: 7 — Cyclic groups and the order of an element
+      - href: notes/week-08.qmd
+        text: 8 — Cosets and Lagrange's theorem
+      - href: notes/week-09.qmd
+        text: 9 — Direct products
+      - href: notes/week-10.qmd
+        text: 10 — Normal subgroups and quotient groups
+      - href: notes/week-11.qmd
+        text: 11 — Isomorphisms and structural invariants
+      - href: notes/week-12.qmd
+        text: 12 — Homomorphisms and the isomorphism theorems
+      - href: notes/week-13.qmd
+        text: 13 — Cayley's theorem and permutation representations
+      - href: notes/week-14.qmd
+        text: 14 — Rings and integral domains
+      - href: notes/week-15.qmd
+        text: 15 — Fields, characteristic, and the arc of the course
+    - section: Resources
+      href: resources/index.qmd
+      contents:
+      - href: resources/index.qmd
+        text: Overview
+    collapse-level: 2
+  page-footer:
+    left: © 2026 Algebraic Structures 1
+    right: Draft course site · Built with [Quarto](https://quarto.org)
+format:
+  html:
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    html-math-method: mathml
+    css: styles/course_family_sections.css
+    theme: cosmo
+    fontsize: 1.05em
+    mainfont: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif
+    monofont: JetBrains Mono, Consolas, Menlo, monospace
+execute:
+  enabled: false
+  freeze: false
+  warning: false
+  message: false

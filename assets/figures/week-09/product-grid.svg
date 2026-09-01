@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 350" width="680" height="350" role="img">
+  <title>The direct product as a grid of ordered pairs</title>
+  <desc>A grid whose rows are labelled by elements of one group and whose columns are labelled by elements of the other, each cell holding one ordered pair.</desc>
+  <rect x="0" y="0" width="680" height="350" fill="#ffffff"/>
+  <text x="340" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every pairing of an element from each group</text>
+  <text x="130" y="46" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="end">from the first group</text>
+  <text x="366" y="46" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="middle">from the second group</text>
+  <text x="136" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="end" font-weight="bold">g1</text>
+  <rect x="150" y="60" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="204" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g1, h1)</text>
+  <rect x="258" y="60" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="312" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g1, h2)</text>
+  <rect x="366" y="60" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="420" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g1, h3)</text>
+  <rect x="474" y="60" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="528" y="91" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g1, h4)</text>
+  <text x="136" y="143" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="end" font-weight="bold">g2</text>
+  <rect x="150" y="112" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="204" y="143" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g2, h1)</text>
+  <rect x="258" y="112" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="312" y="143" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g2, h2)</text>
+  <rect x="366" y="112" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="420" y="143" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g2, h3)</text>
+  <rect x="474" y="112" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="528" y="143" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g2, h4)</text>
+  <text x="136" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#2f6f9f" text-anchor="end" font-weight="bold">g3</text>
+  <rect x="150" y="164" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="204" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g3, h1)</text>
+  <rect x="258" y="164" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="312" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g3, h2)</text>
+  <rect x="366" y="164" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="420" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g3, h3)</text>
+  <rect x="474" y="164" width="108" height="52" fill="#dbe6ef" stroke="#c9d1d9" stroke-width="1.1"/>
+  <text x="528" y="195" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#1f2933" text-anchor="middle">(g3, h4)</text>
+  <text x="204" y="238" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">h1</text>
+  <text x="312" y="238" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">h2</text>
+  <text x="420" y="238" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">h3</text>
+  <text x="528" y="238" font-family="Helvetica, Arial, sans-serif" font-size="12.5" fill="#c2622d" text-anchor="middle" font-weight="bold">h4</text>
+  <text x="60" y="262" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The operation acts in each coordinate separately and never mixes them, so the</text>
+  <text x="60" y="280" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">first entry of a product depends only on first entries. The number of cells is</text>
+  <text x="60" y="298" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">the product of the two sizes, which is where the order of the product group</text>
+  <text x="60" y="316" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">comes from. Nothing here requires either group to be abelian.</text>
+</svg>

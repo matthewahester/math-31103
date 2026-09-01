@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="700" height="340" role="img">
+  <title>The twelve classes sorted into units, zero divisors, and zero</title>
+  <desc>Twelve labelled cells coloured by whether the class has a multiplicative inverse, has a partner multiplying to zero, or is zero itself.</desc>
+  <rect x="0" y="0" width="700" height="340" fill="#ffffff"/>
+  <text x="350" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Every non-zero class is one thing or the other, never both</text>
+  <rect x="60" y="62" width="84" height="68" fill="#ffffff" rx="6" stroke="#1f2933" stroke-width="1.6"/>
+  <text x="102" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">0</text>
+  <text x="102" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero</text>
+  <rect x="156" y="62" width="84" height="68" fill="#e2eee6" rx="6" stroke="#3f7a52" stroke-width="1.6"/>
+  <text x="198" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">1</text>
+  <text x="198" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">unit</text>
+  <rect x="252" y="62" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="294" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">2</text>
+  <text x="294" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="348" y="62" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="390" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">3</text>
+  <text x="390" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="444" y="62" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="486" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">4</text>
+  <text x="486" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="540" y="62" width="84" height="68" fill="#e2eee6" rx="6" stroke="#3f7a52" stroke-width="1.6"/>
+  <text x="582" y="92" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">5</text>
+  <text x="582" y="114" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">unit</text>
+  <rect x="60" y="146" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="102" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">6</text>
+  <text x="102" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="156" y="146" width="84" height="68" fill="#e2eee6" rx="6" stroke="#3f7a52" stroke-width="1.6"/>
+  <text x="198" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">7</text>
+  <text x="198" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">unit</text>
+  <rect x="252" y="146" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="294" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">8</text>
+  <text x="294" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="348" y="146" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="390" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">9</text>
+  <text x="390" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="444" y="146" width="84" height="68" fill="#f9ecec" rx="6" stroke="#a33a3a" stroke-width="1.6"/>
+  <text x="486" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">10</text>
+  <text x="486" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">zero divisor</text>
+  <rect x="540" y="146" width="84" height="68" fill="#e2eee6" rx="6" stroke="#3f7a52" stroke-width="1.6"/>
+  <text x="582" y="176" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#1f2933" text-anchor="middle" font-weight="bold">11</text>
+  <text x="582" y="198" font-family="Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b6672" text-anchor="middle">unit</text>
+  <text x="60" y="250" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">The units are exactly the classes sharing no factor with twelve, which is Week</text>
+  <text x="60" y="268" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">5's criterion. Every other non-zero class shares a factor, and multiplying it by</text>
+  <text x="60" y="286" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">twelve divided by that factor gives zero. So the two categories together cover</text>
+  <text x="60" y="304" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">everything except zero, and they never overlap: a unit cannot kill anything,</text>
+  <text x="60" y="322" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">because multiplying by its inverse would bring the victim back.</text>
+</svg>

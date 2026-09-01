@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 330" width="680" height="330" role="img">
+  <title>The subgroups of the integers, ordered by containment</title>
+  <desc>Nested boxes for the multiples of one, two, four, and eight, with the largest subgroup outermost and a note that containment runs opposite to the size of the generator.</desc>
+  <rect x="0" y="0" width="680" height="330" fill="#ffffff"/>
+  <text x="340" y="26" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1f2933" text-anchor="middle" font-weight="bold">Bigger generator, smaller subgroup</text>
+  <rect x="60" y="56" width="560" height="200" fill="#ffffff" rx="8" stroke="#2f6f9f" stroke-width="1.6"/>
+  <text x="74" y="76" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#2f6f9f" text-anchor="start" font-weight="bold">all multiples of 1</text>
+  <rect x="102" y="82.04" width="476" height="147.92" fill="#ffffff" rx="8" stroke="#c2622d" stroke-width="1.6"/>
+  <text x="116" y="102.04" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#c2622d" text-anchor="start" font-weight="bold">multiples of 2</text>
+  <rect x="144" y="108.08" width="392" height="95.84" fill="#ffffff" rx="8" stroke="#3f7a52" stroke-width="1.6"/>
+  <text x="158" y="128.08" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#3f7a52" text-anchor="start" font-weight="bold">multiples of 4</text>
+  <rect x="186" y="134.12" width="308" height="43.76" fill="#ffffff" rx="8" stroke="#6b5b95" stroke-width="1.6"/>
+  <text x="200" y="154.12" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#6b5b95" text-anchor="start" font-weight="bold">multiples of 8</text>
+  <text x="60" y="288" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">Every subgroup of the integers under addition is the multiples of some fixed</text>
+  <text x="60" y="306" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">non-negative integer, and one sits inside another exactly when the outer</text>
+  <text x="60" y="324" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#5b6672" text-anchor="start">generator divides the inner one. So 8 divides into a smaller set than 2 does.</text>
+</svg>
