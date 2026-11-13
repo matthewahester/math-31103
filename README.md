@@ -46,7 +46,8 @@ rights determination is made or implied. Nothing from any source is reproduced o
 - `notes/` — the fifteen unit notes, Weeks 1 through 15, about 39,000 words
 - `resources/` — the open references
 - `assets/figures/` — 60 static SVG figures, one folder per unit
-- `styles/` — the course-family stylesheet
+- `styles/` — the course-family stylesheet, and `site_look.css` layered after it (see
+  Provenance)
 
 ## Build
 
@@ -67,8 +68,16 @@ the combined site at `/math-31103/`.
 The private authoring workspace — approval packet, resolved plan, asset bundle, per-unit records, and
 build state — stays on Drive and is excluded by `.gitignore`. It must never reach this repo.
 
-This copy differs from the authoring draft in exactly one respect, and only in presentation: the
-sidebar labels here read `1 — Sets, functions, and binary operations` rather than
+This copy differs from the authoring draft in two respects, both only in presentation.
+
+First, the sidebar labels here read `1 — Sets, functions, and binary operations` rather than
 `1 — Week 1 — Sets, functions, and binary operations`. The site shell numbers each unit row, and the
-unit titles also open with the week number, so the generated labels repeated it. The page headings,
-the schedule table, and every word of the notes are unchanged.
+unit titles also open with the week number, so the generated labels repeated it.
+
+Second, `styles/site_look.css` is added, with its entry in the `css` list of `_quarto.yml`. It
+carries the course-family look from 2026-11-13: white page, square corners, one accent color, a smaller
+landing poster, and the navbar and footer aligned to the page.
+`styles/course_family_sections.css` is the kernel's pinned asset and is unchanged. A re-promote must
+keep the second stylesheet and its `css` entry, until the kernel's own stylesheet carries the look.
+
+The page headings, the schedule table, and every word of the notes are unchanged.
